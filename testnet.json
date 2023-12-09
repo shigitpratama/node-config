@@ -5,7 +5,7 @@
   },
   "parent-chain": {
     "connection": {
-      "url": <SEPOLIA_RPC_HERE>
+      "url": "https://sepolia.infura.io/v3/",
     }
   },
   "http": {
